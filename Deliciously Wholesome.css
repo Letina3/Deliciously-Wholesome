@@ -1,0 +1,60 @@
+
+Title {
+  Title: align center ;
+
+}
+header {
+  background-size: cover;
+      text-align: center;
+      background: url("yellow.png");
+}
+html {
+  height: 100%
+}
+a {
+  color: Green;
+  font-weight: 900;
+  font-size: 2em;
+}
+
+h1 {
+  font-size: 70px;
+    font-color: Green;
+  }
+  .row {
+    display: inline-block;
+    border: auto;
+    padding-left: 10px;
+    margin-right: 10px
+    height: 50px;
+    padding: 20px ;
+    margin: 0 auto;
+   width: 1000px;
+   font-size:20px;
+   font-weight: 400;
+}
+#recipes {
+  display: inline-block;
+}
+.resize {
+  width: 600px;
+  height: 400px;
+}
+
+h1 {
+  color: green;
+
+}
+p{
+  align: center;
+  font-size: 30px;
+
+}
+body{
+  font-family: serif;
+
+}
+
+.navbar-nav {
+    display: inline;
+}

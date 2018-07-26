@@ -1,0 +1,62 @@
+
+
+body {
+background-color: #ffbf00 !important;
+background-position: center;
+background-size: cover;
+padding: 30px;
+border: 500px
+}
+html {
+  height: 100%
+}
+
+a {
+  color: Green !important;
+  font-weight: 900;
+  font-size: 2em;
+}
+.main {
+  background-color: #ffbf00;
+}
+h1 {
+  font-size: 70px;
+    font-color: Green;
+  }
+  .row {
+    display: inline-block;
+    border: auto;
+    padding-left: 10px;
+    margin-right: 10px
+    height: 50px;
+    padding: 20px ;
+    margin: 0 auto;
+   width: 1000px;
+   font-size:20px;
+   font-weight: 400;
+}
+background {
+  background-color: yellowplate ;
+}
+#img{
+  width: 600;
+  height: 300;
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+#ul {
+  display: inline;
+  position: absolute- right 570;
+  text-align: right;
+}
+#oats{
+  width: 550;
+   height: 350;
+ }
+
+ #chicken {
+   width: 550;
+    height: 350;
+  }
